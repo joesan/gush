@@ -50,7 +50,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Jothi Sankarraj** - *Initial work* - [E.ON](https://github.com/eon-com)
+https://github.com/joesan
 
 See also the list of [contributors](https://github.com/eon-com/flow/contributors) who participated in this project.
 
