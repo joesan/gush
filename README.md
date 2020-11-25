@@ -1,8 +1,8 @@
 ## PROJECT CURRENTLY UNDER CONSTRUCTION
 
-# flow
+# gush
 
-Flow is an attempt to implement a client for the [OPC UA PubSub Spec Part 14](https://opcfoundation.org/developer-tools/specifications-unified-architecture/part-14-pubsub)
+gush is an attempt to implement a client for the [OPC UA PubSub Spec Part 14](https://opcfoundation.org/developer-tools/specifications-unified-architecture/part-14-pubsub)
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ To be able to checkout and work with a local copy, you need the following set of
 ### Installing
 
 ```
-git clone https://github.com/eon-com/flow.git
+git clone https://github.com/joesan/gush.git
 ```
 
 ## Running the tests
