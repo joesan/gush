@@ -56,7 +56,7 @@ See also the list of [contributors](https://github.com/joesan/gush/contributors)
 
 ## License
 
-TODO: Clarify this internally
+See [here](https://github.com/joesan/gush/)
 
 ## Acknowledgments
 
