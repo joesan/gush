@@ -50,7 +50,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-https://github.com/joesan
+Joesan - https://github.com/joesan
 
 See also the list of [contributors](https://github.com/joesan/gush/contributors) who participated in this project.
 
