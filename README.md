@@ -42,17 +42,17 @@ TODO: Document on how to do it!
 
 ## Contributing
 
-Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/joesan/gush/) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/eon-com/flow/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/joesan/gush/tags). 
 
 ## Authors
 
 https://github.com/joesan
 
-See also the list of [contributors](https://github.com/eon-com/flow/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/joesan/gush/contributors) who participated in this project.
 
 ## License
 
