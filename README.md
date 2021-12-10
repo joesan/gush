@@ -1,5 +1,7 @@
 ## PROJECT CURRENTLY UNDER CONSTRUCTION
 
+NOTE: I'm not working on this project anymore. The codebase can still be used to complete the implementation of the remaining bits as per the specification. Please drop me a message should you be interested.
+
 # gush
 
 gush is an attempt to implement a client for the [OPC UA PubSub Spec Part 14](https://opcfoundation.org/developer-tools/specifications-unified-architecture/part-14-pubsub)
